@@ -1,7 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boriiiborii&show_icons=true&theme=radical)
-<img src="https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-#F05138?style=for-the-badge&logo=Swift&logoColor=white">
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=300&section=header&text=Haena'sGithub&fontSize=80&animation=twinkling)
 
-<img src="https://img.shields.io/badge/스택이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
-
+스킬:)
 <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boriiiborii&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkwlsqorwns)](https://solved.ac/ghkwlsqorwns/)
