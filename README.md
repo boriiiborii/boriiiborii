@@ -1,1 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=150&section=header&text=Haena'sGithub&fontSize=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkwlsspdl@naver.com)](https://solved.ac/ghkwlsspdl@naver.com/)
